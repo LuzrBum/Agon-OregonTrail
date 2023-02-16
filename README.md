@@ -17,7 +17,7 @@ How it was made:
 * Go to GAME file and "Download"
 * Open each file in http://www.bbcbasic.co.uk/bbcsdl/index.html (note you have to select "any file" because they are *.bin)
 * In the INTRO file, delete both occurences of "*FX15" (in line 140 and 681)
-* Save as "*.BBC"
+* Save each file as "*.BBC"
 
 https://www.youtube.com/watch?v=HMaCa89KopY
 
