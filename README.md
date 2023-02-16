@@ -1,7 +1,7 @@
 # Agon-OregonTrail
 Oregon Trail for the Agon Light (TM) 8-bit computer https://www.thebyteattic.com/p/agon.html
 
-#### How to install:  
+#### How to install and run:  
 * Download the two files "INTRO.BBC" and "GAME.BBC" 
 * Copy both files to SD card, insert in Agon Light, powerup.  
 * In BBC Basic, type:
