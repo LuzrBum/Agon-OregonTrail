@@ -14,7 +14,7 @@ Oregon Trail for the Agon Light (TM) 8-bit computer https://www.thebyteattic.com
 
 
 #### How it was made:  
-* Original source http://bbcmicro.co.uk/explore.php?id=2716
+* Original source http://bbcmicro.co.uk/explore.php?id=2716 - "explore disk"
 * Go to INTRO file and "Download"
 * Go to GAME file and "Download"
 * Open each file in http://www.bbcbasic.co.uk/bbcsdl/index.html (note you have to select "any file" because they are *.bin)
