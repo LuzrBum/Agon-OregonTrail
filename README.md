@@ -6,7 +6,7 @@ Oregon Trail for the Agon Light (TM) 8-bit computer https://www.thebyteattic.com
 * Copy both files to SD card, insert in Agon Light, powerup.  
 * In BBC Basic, type:
 
-        LOAD "INTRO.BBC"
+        LOAD "INTRO"
         RUN
 
 
