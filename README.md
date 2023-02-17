@@ -1,5 +1,7 @@
+
 # Agon-OregonTrail
-Oregon Trail for the Agon Light (TM) 8-bit computer https://www.thebyteattic.com/p/agon.html
+Oregon Trail for the Agon Light (TM) 8-bit computer https://www.thebyteattic.com/p/agon.html  
+(Dang, totally missed the opportunity to call the repo "OrAgon Trail")
 
 #### How to install and run:  
 * Download the two files "INTRO.BBC" and "GAME.BBC" 
