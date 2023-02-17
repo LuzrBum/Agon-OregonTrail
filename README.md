@@ -16,7 +16,8 @@ Oregon Trail for the Agon Light (TM) 8-bit computer https://www.thebyteattic.com
 * Go to INTRO file and "Download"
 * Go to GAME file and "Download"
 * Open each file in http://www.bbcbasic.co.uk/bbcsdl/index.html (note you have to select "any file" because they are *.bin)
-* In the INTRO file, delete both occurences of "*FX15" (in line 140 and 681)
+*chaneg mode to 0 in line 140 of INTRO
+* In each file, delete  occurences of "*FX15" (in line 140 and 681, and in 6040 respectively)
 * Save each file as "*.BBC"
 
 #### Screenshot:
