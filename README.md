@@ -10,9 +10,6 @@ Oregon Trail for the Agon Light (TM) 8-bit computer https://www.thebyteattic.com
 
         CHAIN "INTRO"
         
-(CHAIN rather than LOAD+RUN tip thanks to my YouTube subscriber Richard Hallas https://www.youtube.com/channel/UCHW5dD5QYDTtOOmGdIOPRoA)
-
-
 #### How it was made:  
 * Original source http://bbcmicro.co.uk/explore.php?id=2716 - "explore disk"
 * Go to INTRO file and "Download"
@@ -27,4 +24,4 @@ Oregon Trail for the Agon Light (TM) 8-bit computer https://www.thebyteattic.com
 
 https://www.youtube.com/watch?v=HMaCa89KopY
 
-
+(CHAIN rather than LOAD+RUN tip thanks to my YouTube subscriber Richard Hallas https://www.youtube.com/channel/UCHW5dD5QYDTtOOmGdIOPRoA)
